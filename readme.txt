@@ -1,1 +1,1 @@
-This program generates a random set of integers based on the user input range. Operations involving mathematics/statistics are done on these integers
+This program generates a random set of integers based on the user input range. Operations involving mathematics/statistics are done on these integers. This demonstrates my knowledge in both Python as well as Math/Stats.
